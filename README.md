@@ -24,7 +24,7 @@ Processamento: <img width="505" height="312" alt="image" src="https://github.com
 Fonte: https://www.kaggle.com/datasets/ahmeduzaki/wind-and-solar-energy-production-dataset
 Processamento: <img width="597" height="370" alt="image" src="https://github.com/user-attachments/assets/0124c764-3aed-446d-8890-eaf6ed5ed5bd" />
 
-Dataset 6 — Individual Household Electric Power Consumption (UCI)
+## Dataset 6 — Individual Household Electric Power Consumption (UCI)
 Fonte: https://archive.ics.uci.edu/dataset/235/individual+household+electric+power+consumption
 Processamento: <img width="701" height="433" alt="image" src="https://github.com/user-attachments/assets/77d32db1-e7ca-45a2-9f23-eefbd6b2956f" />
 
