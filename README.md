@@ -28,7 +28,8 @@ Processamento: <img width="597" height="370" alt="image" src="https://github.com
 Fonte: https://archive.ics.uci.edu/dataset/235/individual+household+electric+power+consumption
 Processamento: <img width="701" height="433" alt="image" src="https://github.com/user-attachments/assets/77d32db1-e7ca-45a2-9f23-eefbd6b2956f" />
 
-
-
+## Dataset final - Carga Verificada do ONS
+Fonte: https://dados.ons.org.br/dataset/carga-energia-verificada
+Preprocessamento: feito no colab.
 
 
